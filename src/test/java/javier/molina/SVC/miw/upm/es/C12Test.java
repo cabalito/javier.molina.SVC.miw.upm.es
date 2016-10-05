@@ -8,11 +8,8 @@ import org.junit.Test;
 
 public class C12Test {
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}private C12 c12;
-    
+   private C12 c12; 
+   
     @Before
     public void before(){
         c12 = new C12();
